@@ -5,11 +5,7 @@ function App() {
     }
     return "Not reachable";
   };
-  return (
-    <>
-      <h1>{getText()}</h1>
-    </>
-  );
+  return <h1>{getText()}</h1>;
 }
 
 export default App;
