@@ -15,6 +15,7 @@ dist-ssr
 # Reports
 coverage
 .nyc_output
+reports
 
 # Editor directories and files
 .vscode/*

@@ -1,9 +1,6 @@
 function App() {
   const getText = () => {
-    if (true) {
-      return "Vite + React";
-    }
-    return "Not reachable";
+    return 'Vite + React';
   };
   return <h1>{getText()}</h1>;
 }
